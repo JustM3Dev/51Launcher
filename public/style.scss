@@ -1,0 +1,32 @@
+.bg-darker {
+    background-color: rgb(32, 32, 32) !important;
+}
+
+.text-black {
+    color: #000 !important;
+}
+
+a {
+    :not(.btn) {
+        color: #a1a1a1 !important;
+    }
+}
+
+.cardwidth {
+    width: 25%;
+    transition: 0.2s width;
+}
+
+@media only screen and (max-width: 1500px) {
+    .cardwidth {
+        width: 25%;
+        transition: 0.2s width;
+    }
+}
+
+@media only screen and (max-width: 1120px) {
+    .cardwidth {
+        width: 40%;
+        transition: 0.2s width;
+    }
+}

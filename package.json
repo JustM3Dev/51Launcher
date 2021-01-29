@@ -1,0 +1,9 @@
+{
+  "name": "helloworld",
+  "version": "1.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "custom-electron-titlebar": "^3.2.6",
+    "open": "^7.3.1"
+  }
+}

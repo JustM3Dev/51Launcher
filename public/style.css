@@ -1,0 +1,34 @@
+.bg-darker {
+  background-color: #202020 !important;
+}
+
+.text-black {
+  color: #000 !important;
+}
+
+a :not(.btn) {
+  color: #a1a1a1 !important;
+}
+
+.cardwidth {
+  width: 25%;
+  -webkit-transition: 0.2s width;
+  transition: 0.2s width;
+}
+
+@media only screen and (max-width: 1500px) {
+  .cardwidth {
+    width: 25%;
+    -webkit-transition: 0.2s width;
+    transition: 0.2s width;
+  }
+}
+
+@media only screen and (max-width: 1120px) {
+  .cardwidth {
+    width: 40%;
+    -webkit-transition: 0.2s width;
+    transition: 0.2s width;
+  }
+}
+/*# sourceMappingURL=style.css.map */
