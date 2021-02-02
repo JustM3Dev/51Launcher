@@ -19,9 +19,9 @@ This launcher was made using [Electron](https://electronjs.org "HTML, CSS and JS
 <br>
 
 ## Our Dev Team
-<a href="https://github.com/JustM3Dev/" title="JustM3Dev"><img src="https://avatars.githubusercontent.com/u/64860703?s=460&u=e450cdc07794c5d65d4126a4b7186c0aa6312b7a&v=4" style="height: auto; width: 20px; border-radius: 10px"></img></a>
-<a href="https://github.com/EliasVal/" title="EliasVal"><img src="https://avatars.githubusercontent.com/u/46247153?s=400&u=332e1e13e88f1e8005cc7c4193dea150cfd46eb7&v=4" style="height: auto; width: 20px; border-radius: 10px"></img></a>
-<a href="https://github.com/EliasVal/" title="HaederTheToast"><img src="https://avatars.githubusercontent.com/u/35227045?s=460&u=8bf14f1e6f50106123a6a75444fcf15f38852d6a&v=4" style="height: auto; width: 20px; border-radius: 10px"></img></a>
+[JustMeD3v](https://github.com/JustM3Dev/ "Profile")
+[EliasVal](https://github.com/EliasVal/ "Profile")
+[HaederTheToast](https://github.com/Haeder2132 "Profile")
 
 <br>
 
